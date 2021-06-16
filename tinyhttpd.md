@@ -16,7 +16,7 @@ HTTP请求报文由三个部分组成：
 
 例如：
 
-![image-20210615200308176](C:\Users\Lavoie\AppData\Roaming\Typora\typora-user-images\image-20210615200308176.png)
+![image-20210615200308176](https://github.com/Uuq114/pics/blob/main/tinyhttpd/image-20210615200308176.png)
 
 
 
@@ -39,7 +39,7 @@ HTTP响应报文由三部分组成：
 
 例如：
 
-![image-20210615201029096](C:\Users\Lavoie\AppData\Roaming\Typora\typora-user-images\image-20210615201029096.png)
+![image-20210615201029096](https://github.com/Uuq114/pics/blob/main/tinyhttpd/image-20210615201029096.png)
 
 
 
@@ -69,14 +69,14 @@ POST：用于修改服务器上的数据，有副作用，非幂等，不可缓�
 
 **Overview**
 
-![image-20210616215742638](C:\Users\Lavoie\AppData\Roaming\Typora\typora-user-images\image-20210616215742638.png)
+![image-20210616215742638](https://github.com/Uuq114/pics/blob/main/tinyhttpd/image-20210616215742638.png)
 
 **执行**
 
 1
 
-![image-20210616220001993](C:\Users\Lavoie\AppData\Roaming\Typora\typora-user-images\image-20210616220001993.png)
+![image-20210616220001993](https://github.com/Uuq114/pics/blob/main/tinyhttpd/image-20210616220001993.png)
 
 2
 
-![image-20210616220105586](C:\Users\Lavoie\AppData\Roaming\Typora\typora-user-images\image-20210616220105586.png)
+![image-20210616220105586](https://github.com/Uuq114/pics/blob/main/tinyhttpd/image-20210616220105586.png)
